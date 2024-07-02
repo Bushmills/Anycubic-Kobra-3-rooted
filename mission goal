@@ -1,0 +1,12 @@
+- Connectivity of the Kobra 3 is, out of the box, poor.
+   Albeit mine is an early model, and firmware likely to change in future, it required me to either sneakernet rendered gcode file, or go
+through "the cloud" with the printer connected to over WiFi. None of these were satisfactory options.
+
+- Network:
+   only WiFi connection, 2.4 GHz, through a local AP is possible. No USB, no ethernet.
+   When connected, only a single port is exposed: 5555
+   Klipper hosts or locally running slicers can't connect to the Kobra 3
+
+- Goal:
+   Allow a slicer of choice to transfer rendered gcode files to the printer, across network, while printer being permanently
+ready to receive files.
