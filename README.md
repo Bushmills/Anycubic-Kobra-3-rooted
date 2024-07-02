@@ -5,7 +5,4 @@ In this repo will I describe the steps necessary to:
 This serves to avoid having to use the (rather unreliable) "cloud" access to feed
 the printer with data, while allowing use of a locally running slicer.
 
-https://github.com/Bushmills/Anycubic-Kobra-3-rooted/wiki/Top
-
-[[Top]]
-
+[[https://github.com/Bushmills/Anycubic-Kobra-3-rooted/wiki/Top]](top level wiki page)
