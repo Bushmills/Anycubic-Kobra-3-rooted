@@ -15,3 +15,5 @@ Current app version 1.4.6 from Play store (2024jul23) seems faulty - It terminat
 
 It seems that the app will, beginning with v1.4.6, not run on rooted phones any longer. This decision disqualifies Anycubic for my uses: Designing the firmware such that the device is hard to use without the app, while restricting the app to unrooted mobile devices is a combination of requirements which I find unacceptable.
 Consequence: Anycubic, you just lost a customer. I'll go with less restrictive devices.
+
+[Kingroon KLP1](https://github.com/Bushmills/Kingroon-KLP1-rooted/wiki) comes with nice and open firmware (full klipper). Also Creality, with their K1 and K1 max, finds it valuable to preinstall their devices with klipper.
