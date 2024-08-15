@@ -1,4 +1,4 @@
-== Only usable with printer firmware prior to version 2.3.3.1 ==  
+** Only usable with printer firmware prior to version 2.3.3.1 **  
 In this repo will I describe the steps necessary to:
  - gain root access to the Kobra 3 over network
  - copy files (expecially: rendered gcode files) over the network to Kobra 3
