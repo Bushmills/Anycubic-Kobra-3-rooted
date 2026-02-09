@@ -25,7 +25,7 @@ Most recent addition to my printer park were:
 
 [Sovol SV08](https://github.com/Bushmills/Sovol-SV08) - again, rather open firmware:  apparently Armbian, with Klipper, ssh login (user: sovol, passwd: sovol), sudo for root, and stuff preinstalled not unlike the KLP1. Debian package management works out of the box.
 
-FLSUN V400, also Klipper, easily rootable and Debian package managment. Regrattably only WiFi, no ethernet connection.
+FLSUN V400, also Klipper, easily rootable and Debian package management. Regrattably only WiFi, no ethernet connection.
 
 Creality K2 Plus (with ACM) has replaced the Anycubic Kobra-3 (and ACM). Rootable by checkbox from user dialog. But less RAM, less powerful SOC. While still running Linux, the preinstalled Linux is more dedicated to 3D printer operations.
 
