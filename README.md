@@ -22,6 +22,7 @@ Consequence: Anycubic, you just lost a customer. I'll go with less restrictive d
 [Kingroon KLP1](https://github.com/Bushmills/Kingroon-KLP1-rooted/wiki) comes with nice and open firmware (full klipper running on vanilla Armbian installation). Also Creality, with their K1 and K1 max, finds it valuable to preinstall their devices with klipper.
 
 Most recent addition to my printer park were:
+
 [Sovol SV08](https://github.com/Bushmills/Sovol-SV08) - again, rather open firmware:  apparently Armbian, with Klipper, ssh login (user: sovol, passwd: sovol), sudo for root, and stuff preinstalled not unlike the KLP1. Debian package management works out of the box.
 
 FLSUN V400, also Klipper, easily rootable and Debian package managment. Regrattably only WiFi, no ethernet connection.
