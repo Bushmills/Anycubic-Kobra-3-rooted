@@ -27,6 +27,6 @@ Most recent addition to my printer park were:
 
 FLSUN V400, also Klipper, easily rootable and Debian package management. Regrattably only WiFi, no ethernet connection.
 
-Creality K2 Plus (with ACM) has replaced the Anycubic Kobra-3 (and ACM). Rootable by checkbox from user dialog. But less RAM, less powerful SOC. While still running Linux, the preinstalled Linux, a customized Lede/OpenWRT, is more dedicated to 3D printer operations, and lacks package management tools such as opkg.
+Creality K2 Plus (with ACM) has replaced the Anycubic Kobra-3 (and ACM). Rootable by checkbox from user dialog. But less RAM, less powerful SOC. While still running Linux, the preinstalled Linux, a customized Lede/OpenWRT, is more dedicated to 3D printer operations, and lacks package management tools such as opkg. It too runs with Klipper and the fluidd frontend.
 
 THe K3 has been donated to Ukraine. My older Anycubic devices (like, Vyper) also found new owners, and I'm happy to report now that this shop has been and will remain converted to an Anycubic free zone.
